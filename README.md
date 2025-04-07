@@ -12,19 +12,55 @@ Feel free to contribute by either:
 1. Adding your server implementation directly as a package in a folder
 2. Adding a link to your repository in this README
 
-If adding a package directly, please create a `README.md` inside with author information. If adding a link to your own repository, follow this format:
+If adding a package directly, please create a `README.md` inside with author information.
 
-```
-+ nameOfServer (https://github.com/yourusername/yourrepo)
-```
 
 ## Server List
 
 <!-- Add repository links here -->
-+ GoMCPServer (https://github.com/example/gomcpserver)
-+ MCPGo (https://github.com/example/mcpgo)
-+ text2sql (https://github.com/wangle201210/mcp-server)
-+ dify-retriever (https://github.com/wangle201210/mcp-server)
++ [text2sql](#text2sql)
++ [dify-retriever](#dify-retriever)
+
+### text2sql
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/wangle201210/mcp-server</td></tr>
+<tr><th align="left">Website</th><td>/</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>stdio</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>GO</td></tr>
+</table>
+
+text2sql is a natural language to SQL query service based on the go-mcp framework, supporting the conversion of natural language questions into executable SQL statements and returning query results.
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/text2sql/res.png)
+
+</details>
+
+### dify-retriever
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/wangle201210/mcp-server</td></tr>
+<tr><th align="left">Website</th><td>/</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>stdio</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>GO</td></tr>
+</table>
+
+dify-retriever-mcp, using the knowledge base to make AI answers more in line with expectations
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/dify-retriever/res.png)
+
+</details>
 
 ## Maintenance
 
