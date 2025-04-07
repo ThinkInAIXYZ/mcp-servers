@@ -23,6 +23,8 @@ If adding a package directly, please create a `README.md` inside with author inf
 <!-- Add repository links here -->
 + GoMCPServer (https://github.com/example/gomcpserver)
 + MCPGo (https://github.com/example/mcpgo)
++ text2sql (https://github.com/wangle201210/mcp-server)
++ dify-retriever (https://github.com/wangle201210/mcp-server)
 
 ## Maintenance
 
