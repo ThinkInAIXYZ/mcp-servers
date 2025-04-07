@@ -2,15 +2,10 @@
 
 This repository provides a curated list of Model Context Protocol (MCP) servers implemented in Go. You can use these servers as references or starting points for your own AI context integration projects.
 
-## Introduction
-
-MCP is an open protocol that standardizes how applications provide context to LLMs. Think of MCP like a USB-C port for AI applications. Just as USB-C provides a standardized way to connect your devices to various peripherals and accessories, MCP provides a standardized way to connect AI models to different data sources and tools.
-
 ## Contributing
 
 Feel free to contribute by either:
-1. Adding your server implementation directly as a package in a folder
-2. Adding a link to your repository in this README
+- Adding a link to your repository in this README
 
 If adding a package directly, please create a `README.md` inside with author information.
 
