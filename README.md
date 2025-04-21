@@ -15,7 +15,7 @@ If adding a package directly, please create a `README.md` inside with author inf
 <!-- Add repository links here -->
 + [text2sql](#text2sql)
 + [dify-retriever](#dify-retriever)
-+ [ai2mysql](#ai2mysql)
++ [ai2mysql-mcp-server](#ai2mysql-mcp-server)
 
 ### text2sql
 
@@ -58,7 +58,7 @@ dify-retriever-mcp, using the knowledge base to make AI answers more in line wit
 
 </details>
 
-### ai2mysql
+### ai2mysql-mcp-server
 
 <table>
 <tr><th align="left">GitHub</th><td>https://github.com/blanplan-ai/ai2mysql-mcp-server</td></tr>
@@ -78,8 +78,6 @@ ai2mysql-mcp-server is a MySQL database connection server built on go-mcp, suppo
 ![](./screenshots/ai2mysql-mcp-server/query.png)
 
 ![](./screenshots/ai2mysql-mcp-server/insert.png)
-
-<!-- 等待添加截图 -->
 
 </details>
 
