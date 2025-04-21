@@ -15,6 +15,7 @@ If adding a package directly, please create a `README.md` inside with author inf
 <!-- Add repository links here -->
 + [text2sql](#text2sql)
 + [dify-retriever](#dify-retriever)
++ [ai2mysql-mcp-server](#ai2mysql-mcp-server)
 
 ### text2sql
 
@@ -54,6 +55,29 @@ dify-retriever-mcp, using the knowledge base to make AI answers more in line wit
 <summary>Screenshots</summary>
 
 ![](./screenshots/dify-retriever/res.png)
+
+</details>
+
+### ai2mysql-mcp-server
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/blanplan-ai/ai2mysql-mcp-server</td></tr>
+<tr><th align="left">Website</th><td>/</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>stdio</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>GO</td></tr>
+</table>
+
+ai2mysql-mcp-server is a MySQL database connection server built on go-mcp, supporting communication with clients via stdio, allowing execution of SQL queries and data manipulation operations.
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/ai2mysql-mcp-server/query.png)
+
+![](./screenshots/ai2mysql-mcp-server/insert.png)
 
 </details>
 
