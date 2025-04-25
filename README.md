@@ -16,6 +16,7 @@ If adding a package directly, please create a `README.md` inside with author inf
 + [text2sql](#text2sql)
 + [dify-retriever](#dify-retriever)
 + [ai2mysql-mcp-server](#ai2mysql-mcp-server)
++ [mcp-ip-geo](#mcp-ip-geo)
 
 ### text2sql
 
@@ -78,6 +79,27 @@ ai2mysql-mcp-server is a MySQL database connection server built on go-mcp, suppo
 ![](./screenshots/ai2mysql-mcp-server/query.png)
 
 ![](./screenshots/ai2mysql-mcp-server/insert.png)
+
+</details>
+
+### mcp-ip-geo
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/chenmingyong0423/mcp-ip-geo</td></tr>
+<tr><th align="left">Website</th><td>/</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>stdio / sse</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>GO</td></tr>
+</table>
+
+`mcp-ip-geo` is an MCP server that provides IP geolocation lookup (country, region, city, etc.) using the ip-api.com service.
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/mcp-ip-geo/res.png)
 
 </details>
 
